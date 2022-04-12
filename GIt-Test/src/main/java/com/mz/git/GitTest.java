@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Hello git5master");
         System.out.println("Hello git5hot-fix");
         System.out.println("Hello gitPush-fix");
+        System.out.println("Hello 远程库-fix");
     }
 }
